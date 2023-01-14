@@ -1,0 +1,20 @@
+com/mockcompany/webapp/config/DataPopulator.java
+ com.mockcompany.webapp.config.DataPopulator
+com/mockcompany/webapp/service/ProductGenerator.java
+ com.mockcompany.webapp.service.ProductGenerator
+com/mockcompany/webapp/controller/ReportController.java
+ com.mockcompany.webapp.controller.ReportController
+com/mockcompany/webapp/model/ProductItem.java
+ com.mockcompany.webapp.model.ProductItem
+com/mockcompany/webapp/api/SearchReportResponse.java
+ com.mockcompany.webapp.api.SearchReportResponse
+com/mockcompany/webapp/Application.java
+ com.mockcompany.webapp.Application
+com/mockcompany/webapp/data/ProductItemRepository.java
+ com.mockcompany.webapp.data.ProductItemRepository
+com/mockcompany/webapp/controller/ProductsController.java
+ com.mockcompany.webapp.controller.ProductsController
+com/mockcompany/webapp/controller/SearchController.java
+ com.mockcompany.webapp.controller.SearchController
+com/mockcompany/webapp/service/SearchService.java
+ com.mockcompany.webapp.service.SearchService
